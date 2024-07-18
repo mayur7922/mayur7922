@@ -1,6 +1,6 @@
 ### Hi Geek!!
 
-- 👋 I’m Mayur Khemnar, 3rd year Undergraduate at VIIT Pune.
+- 👋 I’m Mayur Khemnar, Final Year Undergraduate at VIIT Pune.
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobby - Reading non fiction books, playing chess
